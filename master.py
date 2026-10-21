@@ -1,1 +1,2 @@
-"hii i am master"
+def login():
+    print("this is login")
